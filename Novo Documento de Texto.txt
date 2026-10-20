@@ -1,0 +1,11 @@
+DEPADM: Codigo da rede de ensino da escola
+DEPBOL: Código da Dependência do Boletim de Resultados
+NOMEDEPBOL: Descrição da Dependência do Boletim de Resultados;
+CODESC:Código CIE = Código de Identificação da Escola
+NOMESC: Nome da escola 
+SERIE_ANO: Ano/Série do aluno no ciclo
+COD_PER: Codigo do Turno da Classe
+PERIODO: Turno da Classe
+CO_COMP: Codigo da diciplina
+DS_COMP: Nome da diciplina
+MEDPROF: Média da proficiência
