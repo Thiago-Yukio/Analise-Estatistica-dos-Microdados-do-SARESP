@@ -15,4 +15,6 @@
 - 📄 **`Novo Documento de Texto.txt`**: arquivo com informações sobre as variáveis presentes nos dados, auxiliando na compreensão do significado de cada coluna.
 - 📄 **`README.md`**: arquivo com as informações gerais e a organização do projeto.
 
-##Avisos!
+## Avisos!
+
+Nenhum até agora...
