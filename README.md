@@ -31,6 +31,10 @@ A pasta `gráficos/`, localizada dentro de `Histórico de análise/`, reúne ima
 
 Seus conteúdos incluem gráficos sobre o histórico de desempenho por série, materiais relacionados às matrículas por grande grupo de ensino e imagens utilizadas para visualizar os dados.
 
+## Analisado:
+- 15 arquivos sobre o fluxo escolar por escola (87057 linhas e 22 colunas) dos anos 2011 a 2025
+- 14 arquivos sobre Desempenho dos Estudantes em relação ao SARESP (1113506 linhas e 12 colunas) dos anos 2011 a 2025 (fora o arquivo de 2020)
+
 ## ⚠️ Avisos
 
 Nenhum aviso no momento.
